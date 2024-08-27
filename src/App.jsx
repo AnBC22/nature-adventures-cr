@@ -17,6 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Nature Adventures CR!</h1>
+      <h3>This website will contain amazing events to enjoy nature and outdoors in Costa Rica</h3>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
